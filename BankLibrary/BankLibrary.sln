@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankLibrary", "BankLibrary\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankServices", "BankServices\BankServices.csproj", "{15EDC400-CA53-4DB4-B956-20B56CAE1E69}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankApp", "BankApp\BankApp.csproj", "{EBC0C861-BDDB-4303-9C42-383344BC9E15}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{15EDC400-CA53-4DB4-B956-20B56CAE1E69}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15EDC400-CA53-4DB4-B956-20B56CAE1E69}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15EDC400-CA53-4DB4-B956-20B56CAE1E69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBC0C861-BDDB-4303-9C42-383344BC9E15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBC0C861-BDDB-4303-9C42-383344BC9E15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBC0C861-BDDB-4303-9C42-383344BC9E15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBC0C861-BDDB-4303-9C42-383344BC9E15}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
